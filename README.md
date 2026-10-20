@@ -10,7 +10,7 @@ Skill全能库是一款ai skill聚合应用，它内置16 万+ 技能库、2.2 �
 - 🤖 **全自动采集**：GitHub Trending 每日前 5000 名、AI 资讯 10 信源聚合、Telegram 双群监听入库，单日峰值入库 700+ 条
 从 2026/09/20 首次采集至今，不到一个月入库 16 万条 —— 内容永远鲜活，不用手动养站。
 
-![Uploading image.png…]()
+<img width="4320" height="1920" alt="pintu" src="https://github.com/user-attachments/assets/6bc28549-a32e-423e-8242-2df5a3d6a566" />
 
 
 
